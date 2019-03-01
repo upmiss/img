@@ -10,4 +10,5 @@
   * [新加坡商户服务](chapter1/xin-jia-po-shang-hu-fu-wu.md)
   * [客户：不够大气](chapter1/ke-hu-ff1a-bu-gou-da-qi.md)
   * [商户对账](chapter1/shang-hu-dui-zhang.md)
+  * [中行机具管理](chapter1/zhong-xing-ji-ju-guan-li.md)
 
