@@ -7,4 +7,5 @@
   * [苏州银行无感支付](chapter1/su-zhou-yin-xing-wu-gan-zhi-fu.md)
   * [中行微信银行](zhong-xing-wei-xin-yin-xing.md)
   * [酷胖抢券](ku-pang-qiang-quan.md)
+  * [新加坡商户服务](chapter1/xin-jia-po-shang-hu-fu-wu.md)
 
