@@ -7,10 +7,16 @@
 ```
 import Hair form "/myHead"
 
-const 👴 = 🐮
-
 componentDidMount() {
-    👦 = setInterval(this.removeHair, 36000)
+    🐮 = setInterval(() => {
+        Hair = Hair--
+    }, 36000)
+}
+
+if(👦 = 👴 && Hair = 0) {
+    componentWillUnmount() {
+        clearInterval(🐮)
+    }
 }
 ```
 
