@@ -26,7 +26,7 @@
 | CSS3 JQuery Bootstrap Javascript | 精通 | 3年 |
 | React Vue Es6 | 熟练 | 1年 |
 | Sass Compass | 熟练 | 1年 |
-| Webpack Nodejs | 一般 | 1年 |
+| Webpack Nodejs | 熟练 | 1年 |
 
 # 工作经历
 
