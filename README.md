@@ -2,7 +2,7 @@
 
 ---
 
-# 蔡锦程 
+# 蔡锦程
 
 | 男 | 1990/03 | 工作经验  5年 | 大专 |
 | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@
 | :--- | :--- | :--- |
 | Axure  Mockplus 原型工具 | 精通 | 2年 |
 | Photoshop AdobeIllustrator | 精通 | 5年 |
-| CSS3 JQuery Bootstrap | 精通 | 3年 |
+| CSS3 JQuery Bootstrap Javascript | 精通 | 3年 |
 | React Vue Es6 | 熟练 | 1年 |
 | Sass Compass | 熟练 | 1年 |
 | Webpack Nodejs | 一般 | 1年 |
