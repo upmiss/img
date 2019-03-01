@@ -9,7 +9,9 @@ import Hair form "/myHead"
 
 const 👴 = 🐮
 
-
+componentDidMount() {
+    👦 = setInterval(this.removeHair, 36000)
+}
 ```
 
 |  |
