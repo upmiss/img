@@ -12,4 +12,5 @@
   * [商户对账](chapter1/shang-hu-dui-zhang.md)
   * [中行机具管理](chapter1/zhong-xing-ji-ju-guan-li.md)
   * [校园缴费用户操作单页](chapter1/xiao-yuan-jiao-fei-yong-hu-cao-zuo-dan-ye.md)
+  * [新加坡网申](chapter1/xin-jia-po-wang-shen.md)
 
