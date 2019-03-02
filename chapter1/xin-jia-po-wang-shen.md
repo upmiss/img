@@ -2,7 +2,7 @@
 ---
 
 |  |
-| :---: |
+| :--- |
 | ![](/assets/xinjiapowangshen/1.png) |
 |  |
 | ![](/assets/xinjiapowangshen/2.png) |
