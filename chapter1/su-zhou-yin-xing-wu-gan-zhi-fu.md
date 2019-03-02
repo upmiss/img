@@ -2,7 +2,7 @@
 ---
 
 | 首页 |  |
-| :--- | :--- |
+| :---: | :---: |
 | ![](/assets/suzhouwugan/1.png) | ![](/assets/suzhouwugan/10.png) |
 |  |  |
 | ![](/assets/suzhouwugan/11.png) | ![](/assets/suzhouwugan/12.png) |
