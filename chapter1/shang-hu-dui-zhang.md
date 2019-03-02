@@ -1,7 +1,5 @@
- 
-
 |  |  |
-| :--- | :--- |
+| :---: | :---: |
 | ![](/assets/shanghuduizhang/m-1.png) | ![](/assets/shanghuduizhang/m-2.png) |
 
 |  |
