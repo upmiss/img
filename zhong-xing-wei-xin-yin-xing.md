@@ -2,7 +2,7 @@
 ---
 
 |  |  |
-| :--- | :--- |
+| :---: | :---: |
 | ![](/assets/weixin/0.png) | ![](/assets/weixin/1.png) |
 |  |  |
 | ![](/assets/weixin/2.png) | ![](/assets/weixin/3.png) |
