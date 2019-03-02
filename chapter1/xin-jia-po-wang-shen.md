@@ -17,20 +17,18 @@
 |  |
 | ![](/assets/xinjiapowangshen/7.png) |
 |  |
-| ![](/assets/xinjiapowangshen/m1.png) |
+
+|  |  |
+| :---: | :---: |
+| ![](/assets/xinjiapowangshen/m1.png) | ![](/assets/xinjiapowangshen/m2.png) |
+|  |  |
+| ![](/assets/xinjiapowangshen/m3.png) | ![](/assets/xinjiapowangshen/m4.png) |
+|  |  |
+| ![](/assets/xinjiapowangshen/m5.png) | ![](/assets/xinjiapowangshen/m6.png) |
+
 |  |
-| ![](/assets/xinjiapowangshen/m2.png) |
-|  |
-| ![](/assets/xinjiapowangshen/m3.png) |
-|  |
-| ![](/assets/xinjiapowangshen/m4.png) |
-|  |
-| ![](/assets/xinjiapowangshen/m5.png) |
-|  |
-| ![](/assets/xinjiapowangshen/m6.png) |
-|  |
+| :---: |
 | ![](/assets/xinjiapowangshen/m7.png) |
-|  |
 
 
 
