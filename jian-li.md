@@ -4,15 +4,10 @@
 >
 > **因工作协议及性质，所列内容是不能将个人能力尽其描述的**
 
-
-
-|  |
-| :--- |
-| ![](/assets/I-am/2.jpg) |
-|  |
-| ![](/assets/I-am/1.jpg) |
-
-
+|  |  |
+| :--- | :--- |
+| ![](/assets/I-am/2.jpg) | ![](/assets/I-am/1.jpg) |
+|  |  |
 
 ```
 import Hair form "/myHead"
