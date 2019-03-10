@@ -22,6 +22,8 @@
 |  |  |
 | ![](/assets/xinjiaposhanghu/m-3.jpg) | ![](/assets/xinjiaposhanghu/m-4.jpg) |
 |  |  |
+| ![](/assets/xinjiaposhanghu/m-5.jpg) | ![](/assets/xinjiaposhanghu/m-6.jpg) |
+|  |  |
 | ![](/assets/xinjiaposhanghu/m-7.jpg) | ![](/assets/xinjiaposhanghu/m-8.jpg) |
 
 
