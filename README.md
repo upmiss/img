@@ -21,10 +21,10 @@
 
 | 技能名称 | 熟练程度（一般/熟练/精通） | 使用时间 |
 | :--- | :--- | :--- |
-| Vue.js | 精通 | 2年 |
+| Vue Gitbook | 精通 | 2年 |
 | Photoshop AdobeIllustrator | 精通 | 5年 |
 | CSS3 JQuery Bootstrap Javascript | 精通 | 3年 |
-| React Es6 | 熟练 | 2年 |
+| React Es6 Git | 熟练 | 2年 |
 | Sass Compass Stylus | 熟练 | 2年 |
 | Webpack Nodejs | 熟练 | 2年 |
 
