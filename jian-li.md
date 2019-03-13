@@ -3,8 +3,8 @@
 > ###### My Not At All Awesome Collection
 
 |  |  |  |  |  |
-| :--- | :--- | :--- | :--- | :--- |
-| ![](/assets/I-am/2.jpg) | ![](/assets/I-am/1.jpg) |  |  |  |
+| :---: | :---: | :---: | :---: | :---: |
+| ![](/assets/I-am/2.jpg) |  |  |  |  |
 |  |  |  |  |  |
 
 ```
